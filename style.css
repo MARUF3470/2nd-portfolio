@@ -1,0 +1,30 @@
+.c{
+    color: coral;
+}
+.s{
+    display: flex;
+}
+
+.i{
+    text-decoration: none;
+    border: 2px;
+    border-radius: 5px;
+    padding: 10px 30px;
+    background-image:linear-gradient(black,rgb(2, 2, 61));
+    color: rgb(201, 212, 221);
+}
+.edit{
+    margin-left: 50px;
+    padding: 10px;
+}
+.l{
+    border-left: 5px solid lightgreen;
+    border-radius: 5px;
+    margin-left: 50px;
+    padding: 10px;
+    box-shadow: 15px 15px 15px rgb(52, 55, 85);
+
+}
+p{
+    font-size:20px;
+}
